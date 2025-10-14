@@ -11,10 +11,13 @@
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GodCoder077&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GodCoder077&layout=compact&theme=tokyonight&hide_border=false&card_width=320" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GodCoder077&layout=compact&theme=tokyonight&hide_border=false&border_radius=6" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=GodCoder077&theme=tokyonight&hide_border=false&border_radius=6" height="150" alt="GitHub Streak" />
 </div>
+
 
 
 ---
