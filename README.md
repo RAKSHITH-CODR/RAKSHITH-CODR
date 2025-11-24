@@ -5,8 +5,6 @@
 🚀 I'm a passionate Full Stack Developer with hands-on experience in building scalable, impactful web applications.  
 🧠 I enjoy turning complex problems into simple, beautiful, and intuitive solutions.  
 🎯 I specialize in **MERN Stack**, **TypeScript**, and have a growing skill set in **AI-integrated applications** and **real-time systems** using **WebSockets**.  
-🛠️ I've built projects in healthcare, education, disaster response, and smart systems — always aiming for real-world impact.  
-🌱 Moving towards deep-diving into **Next.js**, **PostgreSQL**, **Prisma**, and **AI-based solutions**.  
 💡 I love hackathons, mentoring juniors, and contributing to social-impact tech.
 
 ---
