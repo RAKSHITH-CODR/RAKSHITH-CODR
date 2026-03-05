@@ -10,6 +10,14 @@
 ---
 
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshith-codr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />-->
+ ## 📊 GitHub Stats
+
+<p align="center">
+<img height="160" src="https://github-readme-stats-git-masterrstaa.vercel.app/api?username=RAKSHITH-CODR&show_icons=true&theme=tokyonight"/>
+<img height="160" src="https://github-readme-stats-git-masterrstaa.vercel.app/api/top-langs/?username=RAKSHITH-CODR&layout=compact&theme=tokyonight"/>
+</p>
+
+---
 
 ## 🔥 GitHub Streak
 
