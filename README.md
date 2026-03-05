@@ -16,8 +16,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshith-codr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
 </div>
 
+---
 
-
+###  My Contribution
+![github contribution grid snake animation](https://github.com/rakshith-codr/rakshith-codr/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
