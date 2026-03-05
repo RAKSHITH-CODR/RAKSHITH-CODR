@@ -19,7 +19,10 @@
 ---
 
 ###  My Contribution
-![github contribution grid snake animation](https://github.com/rakshith-codr/rakshith-codr/blob/output/github-contribution-grid-snake.svg)
+<!--![github contribution grid snake animation](https://github.com/rakshith-codr/rakshith-codr/blob/output/github-contribution-grid-snake.svg)-->
+![Snake animation](https://github.com/RAKSHITH-CODR/RAKSHITH-CODR/blob/output/ocean.gif)
+
+
 
 ---
 
