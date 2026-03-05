@@ -7,9 +7,9 @@
 🎯 I specialize in **MERN Stack**, **TypeScript**, and have a growing skill set in **AI-integrated applications** and **real-time systems** using **WebSockets**.  
 💡 I love hackathons, mentoring juniors, and contributing to social-impact tech.
 
----
+ <!-----
 
- <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshith-codr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />-->
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshith-codr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />-->
 <!-- ## 📊 GitHub Stats
 
 <p align="center">
@@ -31,9 +31,9 @@
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=RAKSHITH-CODR&theme=tokyonight&row=1&column=6"/>
-</p>-->
+</p>
 
----
+----->
 
 ## 🐍 My Contribution
 
