@@ -18,8 +18,8 @@
 
 ---
 
-###  My Contribution
-<!--![github contribution grid snake animation](https://github.com/rakshith-codr/rakshith-codr/blob/output/github-contribution-grid-snake.svg)-->
+## 🐍 My Contribution
+
 ![Snake animation](https://raw.githubusercontent.com/RAKSHITH-CODR/RAKSHITH-CODR/output/ocean.gif)
 
 
