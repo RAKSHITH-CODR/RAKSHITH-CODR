@@ -37,7 +37,8 @@
 
 ## 🐍 My Contribution
 
-![Snake animation](https://raw.githubusercontent.com/arx-dev15/arx-dev15/output/ocean.gif)
+![Snake animation](https://raw.githubusercontent.com/arx-dev15/RAKSHITH-CODR/output/ocean.gif)
+
 
 
 
