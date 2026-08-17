@@ -180,7 +180,7 @@ I'm deliberately moving beyond just **using frameworks** and focusing more on un
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arx-dev15/RAKSHITH-CODR/output/ocean.gif" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/arx-dev15/arx-dev15/output/ocean.gif" alt="Contribution Snake" />
 </p>
 
 ---
