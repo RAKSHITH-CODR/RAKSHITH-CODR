@@ -1,94 +1,232 @@
-<h2 align="left">Hi 👋! My name is Rakshith and I'm a Full Stack Developer</h2>
+<h1 align="center">Hey 👋, I'm Rakshith</h1>
 
----
-
-🚀 I'm a passionate Full Stack Developer with hands-on experience in building scalable, impactful web applications.  
-🧠 I enjoy turning complex problems into simple, beautiful, and intuitive solutions.  
-🎯 I specialize in **MERN Stack**, **TypeScript**, and have a growing skill set in **AI-integrated applications** and **real-time systems** using **WebSockets**.  
-💡 I love hackathons, mentoring juniors, and contributing to social-impact tech.
-
- <!-----
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arx-dev15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />-->
-<!-- ## 📊 GitHub Stats
+<h3 align="center">
+Full Stack Developer · Backend Engineering · AI & Agentic Systems
+</h3>
 
 <p align="center">
-<img height="160" src="https://github-readme-stats-git-masterrstaa.vercel.app/api?username=arx-dev15&show_icons=true&theme=tokyonight"/>
-<img height="160" src="https://github-readme-stats-git-masterrstaa.vercel.app/api/top-langs/?username=arx-dev15&layout=compact&theme=tokyonight"/>
-</p>-->
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=arx-dev15&theme=tokyonight"/>
+I build software, explore intelligent systems, and enjoy understanding
+what happens beneath the abstractions.
 </p>
 
----
-
-<!--## 🏆 GitHub Trophies
-
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=arx-dev15&theme=tokyonight&row=1&column=6"/>
-</p>
-
------>
-
-## 🐍 My Contribution
-
-![Snake animation](https://raw.githubusercontent.com/arx-dev15/RAKSHITH-CODR/output/ocean.gif)
-
-
-
-
----
-
-### 🧰 Tech Stack & Tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
-
----
-
-### 📫 Let's Connect
-
-<div align="left">
-  <a href="https://discord.com/users/861459031658201089" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  <a href="https://www.linkedin.com/in/raha1215">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="mailto:raks96758@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-
-  <a href="https://www.linkedin.com/in/raha1215" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <a href="https://discord.com/users/861459031658201089">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
   </a>
-</div>
+</p>
 
 ---
 
+## 🧠 About Me
 
+I'm a **Computer Science Engineering student and Full Stack Developer** interested in building systems that are not only functional, but well-designed and maintainable.
 
+I started with web development and have been gradually moving deeper into **backend engineering, system design, and AI-powered software**.
+
+Currently, I'm exploring the intersection of:
+
+```text
+Software Engineering
+        ↓
+Backend Systems
+        ↓
+Distributed & Cloud Technologies
+        ↓
+LLM Applications
+        ↓
+Agentic AI
+        ↓
+Intelligent Systems
+```
+
+* 🔭 Building and experimenting with **AI-integrated applications**
+* 🧠 Learning **LLMs, RAG, LangChain, LangGraph & Agentic AI**
+* ⚙️ Strengthening my **backend & system design** fundamentals
+* 🌐 Working with **TypeScript, Node.js, React & modern web technologies**
+* 🧩 Exploring **real-time systems, APIs, databases & distributed architectures**
+* 🚀 Enjoying hackathons, experimentation and building things from scratch
+
+---
+
+## ⚡ Current Focus
+
+I'm currently spending most of my time going deeper into:
+
+| Area              | Exploring                                  |
+| ----------------- | ------------------------------------------ |
+| 🧠 AI             | LLMs · RAG · AI Applications               |
+| 🤖 Agents         | LangGraph · LangChain · Tool Calling · MCP |
+| ⚙️ Backend        | Node.js · TypeScript · APIs · Databases    |
+| 🏗️ Architecture  | System Design · Event-Driven Systems       |
+| ☁️ Infrastructure | Docker · Redis · Cloud · CI/CD             |
+| 📡 Real-Time      | WebSockets · Streaming · Live Systems      |
+| 📚 Fundamentals   | DSA · Algorithms · Software Engineering    |
+
+---
+
+## 🛠️ Technologies I Work With
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,java" />
+</p>
+
+### Full Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite" />
+</p>
+
+### Databases & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma" />
+</p>
+
+### AI & LLM Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+`LangChain` · `LangGraph` · `RAG` · `LLMs` · `Tool Calling` · `MCP` · `AI Agents` · `Gemini`
+
+### DevOps & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode,postman" />
+</p>
+
+---
+
+## 🔧 What I Like Building
+
+I enjoy projects where different areas of engineering come together.
+
+```text
+┌─────────────────────────────────────┐
+│          Intelligent Software       │
+├─────────────────────────────────────┤
+│                                     │
+│   🤖 AI / Agents                    │
+│          ↕                          │
+│   🧠 LLM / RAG / Reasoning          │
+│          ↕                          │
+│   ⚙️ Backend & APIs                 │
+│          ↕                          │
+│   📡 Real-Time Systems              │
+│          ↕                          │
+│   🗄️ Databases & Data               │
+│          ↕                          │
+│   ☁️ Infrastructure                 │
+│                                     │
+└─────────────────────────────────────┘
+```
+
+Some areas I particularly enjoy:
+
+* 🤖 AI-powered applications
+* 🧠 Agentic workflows
+* ⚙️ Backend systems & APIs
+* 🔄 Real-time applications
+* 📊 Data-driven systems
+* 🛠️ Developer tools
+* 🌐 Full-stack applications
+* 🧩 Automation & intelligent workflows
+
+---
+
+## 📚 Currently Learning
+
+I'm deliberately moving beyond just **using frameworks** and focusing more on understanding the engineering behind them.
+
+**Backend Engineering**
+→ APIs → Databases → Caching → Queues → Concurrency
+
+**System Design**
+→ Scalability → Reliability → Distributed Systems → Architecture
+
+**AI Engineering**
+→ LLMs → RAG → Tool Use → Agents → Evaluation
+
+**Infrastructure**
+→ Docker → CI/CD → Cloud → Deployment → Observability
+
+**Problem Solving**
+→ DSA → Algorithms → Computational Thinking
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arx-dev15&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arx-dev15&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=arx-dev15&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arx-dev15/RAKSHITH-CODR/output/ocean.gif" alt="Contribution Snake" />
+</p>
+
+---
+
+## 🌱 The Direction I'm Heading
+
+```text
+Full Stack Development
+          ↓
+Backend Engineering
+          ↓
+System Design
+          ↓
+Cloud & Infrastructure
+          ↓
+AI Engineering
+          ↓
+Agentic Systems
+          ↓
+AI Systems Engineering
+```
+
+I'm interested in building software where **strong engineering foundations meet intelligent systems**.
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/raha1215">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:raks96758@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/861459031658201089">
+<img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>Build things. Understand them. Break them. Improve them.</i>
+</p>
