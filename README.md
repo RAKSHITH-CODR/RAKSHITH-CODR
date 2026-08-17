@@ -1,232 +1,338 @@
-<h1 align="center">Hey 👋, I'm Rakshith</h1>
+<!-- ======================== HERO ======================== -->
 
-<h3 align="center">
-Full Stack Developer · Backend Engineering · AI & Agentic Systems
-</h3>
+<div align="center">
 
-<p align="center">
-I build software, explore intelligent systems, and enjoy understanding
-what happens beneath the abstractions.
-</p>
+# 👋 Hey, I'm **Rakshith**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/raha1215">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:raks96758@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/861459031658201089">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
-  </a>
-</p>
+### `Full Stack Developer` · `Backend Engineering` · `AI & Agentic Systems`
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+software+that+solves+real+problems;Exploring+backend+%26+distributed+systems;Learning+LLMs+%26+Agentic+AI;Turning+ideas+into+working+systems" />
+
+<br/>
+
+<a href="https://github.com/arx-dev15">
+<img src="https://img.shields.io/github/followers/arx-dev15?label=Followers&style=flat-square&logo=github" />
+</a>
+
+<a href="https://github.com/arx-dev15?tab=repositories">
+<img src="https://img.shields.io/github/stars/arx-dev15?label=Stars&style=flat-square&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/raha1215">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
 
 ---
+
+<!-- ======================== ABOUT ======================== -->
 
 ## 🧠 About Me
 
-I'm a **Computer Science Engineering student and Full Stack Developer** interested in building systems that are not only functional, but well-designed and maintainable.
+I'm a **Computer Science Engineering student and Full Stack Developer** who enjoys building things from the ground up and understanding what happens beneath the abstractions.
 
-I started with web development and have been gradually moving deeper into **backend engineering, system design, and AI-powered software**.
+My journey started with **web development**, but my curiosity keeps pulling me deeper into **backend engineering, system design, AI applications, and agentic systems**.
 
-Currently, I'm exploring the intersection of:
+> **I don't just want to use technologies — I want to understand how they work together to build reliable systems.**
 
-```text
-Software Engineering
-        ↓
-Backend Systems
-        ↓
-Distributed & Cloud Technologies
-        ↓
-LLM Applications
-        ↓
-Agentic AI
-        ↓
-Intelligent Systems
-```
+### Currently
 
-* 🔭 Building and experimenting with **AI-integrated applications**
-* 🧠 Learning **LLMs, RAG, LangChain, LangGraph & Agentic AI**
-* ⚙️ Strengthening my **backend & system design** fundamentals
-* 🌐 Working with **TypeScript, Node.js, React & modern web technologies**
-* 🧩 Exploring **real-time systems, APIs, databases & distributed architectures**
-* 🚀 Enjoying hackathons, experimentation and building things from scratch
+* 🔭 Exploring **AI-integrated applications & Agentic AI**
+* 🧠 Learning **LLMs, RAG, LangChain & LangGraph**
+* ⚙️ Going deeper into **backend engineering & system design**
+* 🌐 Building with **TypeScript, Node.js & React**
+* 📡 Exploring **real-time and event-driven systems**
+* ☁️ Learning **Docker, CI/CD, cloud & infrastructure**
+* 🧩 Strengthening **DSA, algorithms & software engineering fundamentals**
+* 🚀 Participating in hackathons and building things that solve real problems
 
 ---
+
+<!-- ======================== ENGINEERING MAP ======================== -->
+
+## 🧭 My Engineering Direction
+
+<div align="center">
+
+```text
+                    ┌───────────────────┐
+                    │   Problem Solving │
+                    │     & DSA         │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+┌──────────────┐      ┌───────────────────┐      ┌───────────────┐
+│   Frontend   │ ───► │  Backend Systems  │ ◄──► │   Databases   │
+│ React / Next │      │ Node / TypeScript │      │ SQL / NoSQL   │
+└──────────────┘      └─────────┬─────────┘      └───────────────┘
+                                │
+                    ┌───────────┴───────────┐
+                    ▼                       ▼
+             ┌──────────────┐       ┌──────────────┐
+             │ System Design│       │ Infrastructure│
+             │ Architecture │       │ Docker / CI  │
+             └──────┬───────┘       └──────┬───────┘
+                    │                       │
+                    └───────────┬───────────┘
+                                ▼
+                       ┌─────────────────┐
+                       │   AI Systems    │
+                       │ LLM / RAG /     │
+                       │ Agents / Tools  │
+                       └─────────────────┘
+```
+
+</div>
+
+---
+
+<!-- ======================== CURRENT FOCUS ======================== -->
 
 ## ⚡ Current Focus
 
-I'm currently spending most of my time going deeper into:
+<table align="center">
+<tr>
+<td align="center" width="25%">
 
-| Area              | Exploring                                  |
-| ----------------- | ------------------------------------------ |
-| 🧠 AI             | LLMs · RAG · AI Applications               |
-| 🤖 Agents         | LangGraph · LangChain · Tool Calling · MCP |
-| ⚙️ Backend        | Node.js · TypeScript · APIs · Databases    |
-| 🏗️ Architecture  | System Design · Event-Driven Systems       |
-| ☁️ Infrastructure | Docker · Redis · Cloud · CI/CD             |
-| 📡 Real-Time      | WebSockets · Streaming · Live Systems      |
-| 📚 Fundamentals   | DSA · Algorithms · Software Engineering    |
+### 🧠 AI
+
+LLMs
+RAG
+AI Applications
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖 Agents
+
+LangGraph
+LangChain
+Tool Calling
+MCP
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️ Backend
+
+TypeScript
+Node.js
+APIs
+Databases
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏗️ Systems
+
+Architecture
+System Design
+Real-Time
+Infrastructure
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technologies I Work With
+<!-- ======================== TECH STACK ======================== -->
 
-### Languages
+## 🛠️ Technology Stack
+
+### 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,java" />
 </p>
 
-### Full Stack
+### 🌐 Full Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite" />
 </p>
 
-### Databases & Data
+### 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma" />
 </p>
 
-### AI & LLM Engineering
+### 🤖 AI / LLM Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+
+`LangChain` · `LangGraph` · `RAG` · `LLMs` · `Tool Calling` · `MCP`
+
 </p>
-
-`LangChain` · `LangGraph` · `RAG` · `LLMs` · `Tool Calling` · `MCP` · `AI Agents` · `Gemini`
-
-### DevOps & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode,postman" />
+
+`Gemini` · `AI Agents` · `Multi-Agent Systems` · `AI Workflows`
+
+</p>
+
+### ☁️ DevOps & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux" />
+</p>
+
+### 🔧 Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,npm" />
 </p>
 
 ---
 
-## 🔧 What I Like Building
+<!-- ======================== THINGS I BUILD ======================== -->
 
-I enjoy projects where different areas of engineering come together.
+## 🔧 Things I Like Building
+
+<div align="center">
+
+| 🤖 Intelligent Systems |  ⚙️ Backend Systems  | 🌐 Applications |
+| :--------------------: | :------------------: | :-------------: |
+|        AI Agents       |       REST APIs      | Full Stack Apps |
+|       RAG Systems      |   Real-Time Systems  | Developer Tools |
+|      AI Workflows      | Event-Driven Systems |    Dashboards   |
+|    LLM Applications    |    Data Processing   |    Automation   |
+
+</div>
+
+---
+
+<!-- ======================== LEARNING ======================== -->
+
+## 📚 What I'm Learning
+
+<div align="center">
+
+### From building applications → to understanding systems.
+
+<br/>
 
 ```text
-┌─────────────────────────────────────┐
-│          Intelligent Software       │
-├─────────────────────────────────────┤
-│                                     │
-│   🤖 AI / Agents                    │
-│          ↕                          │
-│   🧠 LLM / RAG / Reasoning          │
-│          ↕                          │
-│   ⚙️ Backend & APIs                 │
-│          ↕                          │
-│   📡 Real-Time Systems              │
-│          ↕                          │
-│   🗄️ Databases & Data               │
-│          ↕                          │
-│   ☁️ Infrastructure                 │
-│                                     │
-└─────────────────────────────────────┘
-```
-
-Some areas I particularly enjoy:
-
-* 🤖 AI-powered applications
-* 🧠 Agentic workflows
-* ⚙️ Backend systems & APIs
-* 🔄 Real-time applications
-* 📊 Data-driven systems
-* 🛠️ Developer tools
-* 🌐 Full-stack applications
-* 🧩 Automation & intelligent workflows
-
----
-
-## 📚 Currently Learning
-
-I'm deliberately moving beyond just **using frameworks** and focusing more on understanding the engineering behind them.
-
-**Backend Engineering**
-→ APIs → Databases → Caching → Queues → Concurrency
-
-**System Design**
-→ Scalability → Reliability → Distributed Systems → Architecture
-
-**AI Engineering**
-→ LLMs → RAG → Tool Use → Agents → Evaluation
-
-**Infrastructure**
-→ Docker → CI/CD → Cloud → Deployment → Observability
-
-**Problem Solving**
-→ DSA → Algorithms → Computational Thinking
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arx-dev15&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arx-dev15&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=arx-dev15&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arx-dev15/RAKSHITH-CODR/output/ocean.gif" alt="Contribution Snake" />
-</p>
-
----
-
-## 🌱 The Direction I'm Heading
-
-```text
+Frontend
+   │
+   ▼
 Full Stack Development
-          ↓
+   │
+   ▼
 Backend Engineering
-          ↓
+   │
+   ▼
 System Design
-          ↓
+   │
+   ▼
 Cloud & Infrastructure
-          ↓
+   │
+   ▼
 AI Engineering
-          ↓
+   │
+   ▼
 Agentic Systems
-          ↓
+   │
+   ▼
 AI Systems Engineering
 ```
 
-I'm interested in building software where **strong engineering foundations meet intelligent systems**.
+</div>
+
+I'm deliberately trying to move beyond **framework-level knowledge** and understand the engineering principles behind the systems I build.
 
 ---
 
-## 📫 Let's Connect
+<!-- ======================== GITHUB ======================== -->
 
-<p align="center">
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=arx-dev15&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=arx-dev15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/><br/>
+
+<img
+src="https://streak-stats.demolab.com?user=arx-dev15&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<!-- ======================== CONTRIBUTIONS ======================== -->
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/arx-dev15/RAKSHITH-CODR/output/ocean.gif"
+alt="GitHub Contribution Snake"
+width="850"
+/>
+
+</div>
+
+---
+
+<!-- ======================== PHILOSOPHY ======================== -->
+
+## 💭 Engineering Philosophy
+
+<div align="center">
+
+> ### **Build → Understand → Break → Improve**
+
+<br/>
+
+**Good software works.**
+**Great software is understood.**
+**Exceptional software is designed to evolve.**
+
+</div>
+
+---
+
+<!-- ======================== CONNECT ======================== -->
+
+## 🌐 Let's Connect
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/raha1215">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:raks96758@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://discord.com/users/861459031658201089">
-<img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
-</p>
+</div>
 
----
+<br/>
 
-<p align="center">
-  <i>Build things. Understand them. Break them. Improve them.</i>
-</p>
+<div align="center">
+
+### `Keep building. Keep learning. Keep going deeper.`
+
+⭐ Thanks for visiting my profile.
+
+</div>
