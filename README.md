@@ -9,12 +9,12 @@
 
  <!-----
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakshith-codr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />-->
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arx-dev15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />-->
 <!-- ## 📊 GitHub Stats
 
 <p align="center">
-<img height="160" src="https://github-readme-stats-git-masterrstaa.vercel.app/api?username=RAKSHITH-CODR&show_icons=true&theme=tokyonight"/>
-<img height="160" src="https://github-readme-stats-git-masterrstaa.vercel.app/api/top-langs/?username=RAKSHITH-CODR&layout=compact&theme=tokyonight"/>
+<img height="160" src="https://github-readme-stats-git-masterrstaa.vercel.app/api?username=arx-dev15&show_icons=true&theme=tokyonight"/>
+<img height="160" src="https://github-readme-stats-git-masterrstaa.vercel.app/api/top-langs/?username=arx-dev15&layout=compact&theme=tokyonight"/>
 </p>-->
 
 ---
@@ -22,7 +22,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=RAKSHITH-CODR&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=arx-dev15&theme=tokyonight"/>
 </p>
 
 ---
@@ -30,14 +30,14 @@
 <!--## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RAKSHITH-CODR&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=arx-dev15&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ----->
 
 ## 🐍 My Contribution
 
-![Snake animation](https://raw.githubusercontent.com/RAKSHITH-CODR/RAKSHITH-CODR/output/ocean.gif)
+![Snake animation](https://raw.githubusercontent.com/arx-dev15/arx-dev15/output/ocean.gif)
 
 
 
