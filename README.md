@@ -167,7 +167,7 @@ I'm deliberately moving beyond just **using frameworks** and focusing more on un
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=arx-dev15&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arx-dev15&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
