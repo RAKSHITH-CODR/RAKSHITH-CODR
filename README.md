@@ -167,8 +167,7 @@ I'm deliberately moving beyond just **using frameworks** and focusing more on un
 ## 📊 GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arx-dev15&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arx-dev15&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=arx-dev15&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
